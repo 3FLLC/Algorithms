@@ -1,6 +1,4 @@
-//Taken from the DWScript project (http://code.google.com/p/dwscript/)
-//Adjusted to compile with Lape
-
+//Ported from DWScript project (http://code.google.com/p/dwscript/)
 function Ackermann(n, x, y: Int32): Int32;
 begin
   if n = 0 then
